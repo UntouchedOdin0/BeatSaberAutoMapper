@@ -1,0 +1,10 @@
+F:\C# Coding\BeatSaberAutoMapper\BeatSaberAutoMapper\bin\Debug\BeatSaberAutoMapper.exe.config
+F:\C# Coding\BeatSaberAutoMapper\BeatSaberAutoMapper\bin\Debug\BeatSaberAutoMapper.exe
+F:\C# Coding\BeatSaberAutoMapper\BeatSaberAutoMapper\bin\Debug\BeatSaberAutoMapper.pdb
+F:\C# Coding\BeatSaberAutoMapper\BeatSaberAutoMapper\obj\Debug\BeatSaberAutoMapper.csprojAssemblyReference.cache
+F:\C# Coding\BeatSaberAutoMapper\BeatSaberAutoMapper\obj\Debug\BeatSaberAutoMapper.BeatSaberAutoMapper.resources
+F:\C# Coding\BeatSaberAutoMapper\BeatSaberAutoMapper\obj\Debug\BeatSaberAutoMapper.Properties.Resources.resources
+F:\C# Coding\BeatSaberAutoMapper\BeatSaberAutoMapper\obj\Debug\BeatSaberAutoMapper.csproj.GenerateResource.cache
+F:\C# Coding\BeatSaberAutoMapper\BeatSaberAutoMapper\obj\Debug\BeatSaberAutoMapper.csproj.CoreCompileInputs.cache
+F:\C# Coding\BeatSaberAutoMapper\BeatSaberAutoMapper\obj\Debug\BeatSaberAutoMapper.exe
+F:\C# Coding\BeatSaberAutoMapper\BeatSaberAutoMapper\obj\Debug\BeatSaberAutoMapper.pdb
